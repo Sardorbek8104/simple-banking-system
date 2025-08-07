@@ -1,0 +1,6 @@
+app:
+  currency:
+    schedule: "0 10 17 * * *"
+
+cbu:
+  api: "https://cbu.uz/oz/arkhiv-kursov-valyut/json/"
